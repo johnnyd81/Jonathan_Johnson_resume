@@ -1,3 +1,4 @@
+//jquery is used to create the onscreen scroll effect
 $(document).ready(function(){
   $('.header,.about,.education,.work,.skills,.project').height($(window).height());
 }) // this code makes each section take the height of the window
